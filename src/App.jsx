@@ -2,10 +2,10 @@ import React from 'react'
 import {BrowserRouter as Router , Routes ,Route} from 'react-router-dom'
 import Home from './Compents/Home'
 import About from './Compents/About'
-import Skills from './Compents/skills'
 import Project from './Compents/project'
 import Contanct from './Compents/contanct'
 import NavbarComp from './Compents/NavbarComp'
+import Skills from './Compents/skills'
 
 const App = () => {
   return (
