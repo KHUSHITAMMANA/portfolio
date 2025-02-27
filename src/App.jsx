@@ -5,7 +5,7 @@ import About from './Compents/About'
 import Project from './Compents/project'
 import Contanct from './Compents/contanct'
 import NavbarComp from './Compents/NavbarComp'
-import Skills from './Compents/skills'
+import Skills from './Compents/Skills'
 
 const App = () => {
   return (
